@@ -7,7 +7,7 @@ h1{
 .orange-color{
     color: orange;
 }
-section{
+.felixibal-contianer{
     display: flex;
     margin-bottom: 100px;
 }
@@ -40,4 +40,36 @@ section{
     background-position: right;
     padding-bottom: 400px;
     padding-right: 30px;
+}
+.orange{
+    color: orange;
+}
+.experience-item{
+    box-shadow: 10px 10px 40px grey;
+    width: 40%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+h2{
+    font-size: 40px;
+}
+.experiences{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position:left;
+}
+#baby-web-dev{
+   border-left: 7px solid;
+   border-image: linear-gradient(blue,cyan);
+   border-image-slice: 1;
+}
+#full-stack{
+    border-left: 7px solid;
+   border-image: linear-gradient(salmon,tomato);
+   border-image-slice: 1;
+}
+footer p{
+    text-align: center;
 }
