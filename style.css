@@ -38,4 +38,6 @@ section{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    padding-bottom: 400px;
+    padding-right: 30px;
 }
